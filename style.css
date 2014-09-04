@@ -1,0 +1,12 @@
+.dog {
+  color: red;
+
+}
+ul {
+ list-style-type: none;
+}
+
+#my-heading {
+  background: yellow;
+  display: inline;
+}
